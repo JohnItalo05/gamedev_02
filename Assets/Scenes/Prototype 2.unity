@@ -600,9 +600,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c4a483ed36c0714384fd22f5a3801ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 5150461539708172856, guid: ca199ad5f8ede8349ae01070ed69710a, type: 3}
+  projectilePrefab: {fileID: 1893589812927162275, guid: 7110ddbc059f63e4bb94ea7c56e265de, type: 3}
   horizontalInput: 0
-  speed: 15
+  speed: 20
   xRange: 15
 --- !u!1001 &1094668827
 PrefabInstance:
